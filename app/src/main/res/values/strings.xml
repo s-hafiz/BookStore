@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="nameHint">Enter Name of Book</string>
+    <string name="bookHint">Enter Book ID</string>
+    <string name="edQuantity">Enter Quantity</string>
+    <string name="book_add">Submit</string>
+    <string name="book_show">page view</string>
+    <string name="book_show_dia">dialog view</string>
+    <string name="title">Save</string>
+    <string name="edHint">Enter ID Here</string>
+    <string name="update">UPDATE DATABASE</string>
+    <string name="book_update">update</string>
+    <string name="tvOUt">TextView</string>
+    <string name="book_list">BOOK LIST CATALOG</string>
+    <string name="home">home</string>
+</resources>

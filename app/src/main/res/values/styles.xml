@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="Theme.LE_THEME" parent="@android:style/Theme.Holo"></style>
+    <style name="Widget.Holo.TextView" parent="Widget.AppCompat.ActionBar.Solid">
+    </style>
+    <style name="Theme.Granny" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:textAppearanceSmall">@style/TextAppearance.AppCompat.Medium</item>
+    </style>
+
+
+</resources>
